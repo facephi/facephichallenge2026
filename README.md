@@ -22,6 +22,7 @@ Simplemente tendrás que rellenar el siguiente [formulario](https://forms.office
 <br />
 
 Para cualquier duda relacionada con el Challenge, no dudes en ponerte en contacto con nosotros a través del correo facephichallenge2026@facephi.com <br />
+
 ¡Te esperamos!  
 <br />
 
