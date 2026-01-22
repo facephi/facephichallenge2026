@@ -7,9 +7,10 @@ Desde Facephi lanzamos la tercera edición del Facephi Challenge, un reto en el 
 * El Challenge está abierto a **equipos de 1 a 2 personas**
 * El reto tendrá una **duración de 11 días**, desde el 16 de febrero hasta el 27 de febrero, día en el que se presentarán las propuestas.
 * La información del reto se **presentará** el día **16 de febrero a las 15:00 h** en el aula **L17** de la Escuela Politécnica Superior 1 de la Universidad de Alicante.
+* Una vez presentado el reto se subirá toda la información necesaria a este repositorio.
 * El **23 de febrero** se realizará una sesión de dudas presencial y opcional, en el aula **L17** de la EPS 1, **de 15:00 a 16:00**. 
 * El **27 de febrero** se presentarán las propuestas para la resolución del reto, esta sesión será presencial y se realizará en el aula **L17** de la EPS 1, **de 10:00 a 12:00**.
-* Una vez presentado el reto se subirá toda la información necesaria a este repositorio.
+* Para que la participación sea válida, se deberá subir un **notebook** con la propuesta a un **repositorio de github público** que debe crear el equipo.
 * Para cualquier duda, estará disponible el siguiente correo: facephichallenge2026@facephi.com
 
 #### **¿Habrá premio?**
@@ -17,9 +18,12 @@ Desde Facephi lanzamos la tercera edición del Facephi Challenge, un reto en el 
 La entrega de premios se realizará el día **27 de febrero**, después de la sesión de presentación, durante el acto de clausura del Mes Cultural en la Universidad de Alicante.
 
 #### **¿Cómo me inscribo?**
-Dentro de poco daremos más información. <br />
+Simplemente tendrás que rellenar el siguiente [formulario](https://forms.office.com/e/b6S9rArLY9) con los datos de los miembros del equipo. Podréis incribiros hasta el día **26 de febrero**
+<br />
 
 Para cualquier duda relacionada con el Challenge, no dudes en ponerte en contacto con nosotros a través del correo facephichallenge2026@facephi.com <br />
+¡Te esperamos!  
+<br />
 
 [^1]: El cheque de Amazon será a repartir entre los integrantes del equipo.
 
